@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://portfolio-loveit.netlify.app/"
 # [en, zh-cn, fr, ...] determines default content language
 defaultContentLanguage = "en"
 # language code
