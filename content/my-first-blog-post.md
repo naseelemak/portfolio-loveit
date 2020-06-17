@@ -1,6 +1,5 @@
 +++
 body = ""
-draft = true
 title = "My First Blog Post"
 
 +++
