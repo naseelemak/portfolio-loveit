@@ -1,6 +1,6 @@
 +++
 body = ""
-title = "My First Blog Post"
+title = "Starting a Blog"
 
 +++
 Hello reader and welcome to my website.
