@@ -16,5 +16,3 @@ fields:
     schema:
       format: markdown
   label: Body
-pages:
-- content/my-first-blog-post.md
