@@ -1,12 +1,5 @@
 {{- define "title" }}{{ .Title }} - {{ .Site.Title }}{{ end -}}
 
-<head>
-    ...
-    <script src="//cdn1.lncld.net/static/js/3.0.4/av-min.js"></script>
-    <script src='//unpkg.com/valine/dist/Valine.min.js'></script>
-    ...
-</head>
-
 {{- define "content" -}}
     {{- $params := .Scratch.Get "params" -}}
 
@@ -106,17 +99,5 @@
         {{- partial "comment.html" . -}}
     </article>
 	
-	
-<body>
-    ...
-    <div id="vcomment"></div>
-    <script>
-        new Valine({
-            el: '#vcomment' ,
-            appId: 'fL2ixYC8CBj5dEisbFLuxh29-MdYXbMMI',
-            appKey: 'MYxoJC5cUhwcbKRAB5JmthmC'
-        });
-    </script>
-</body>
 	
 {{- end -}}
