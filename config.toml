@@ -3,7 +3,7 @@ baseURL = "https://jaedontan.com"
 defaultContentLanguage = "en"
 # language code
 languageCode = "en"
-title = "Jaedon"
+title = "Just Saying"
 
 # Change the default theme to be use when building the site with Hugo
 theme = "LoveIt"
