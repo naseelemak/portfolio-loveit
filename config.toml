@@ -11,6 +11,7 @@ theme = "LoveIt"
 [params]
   # LoveIt theme version
   version = "0.2.X"
+  disqusShortname = "jaedontan.com"
 
 [menu]
   [[menu.main]]
