@@ -1,0 +1,17 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>All Posts - Just Saying</title>
+        <link>https://jaedontan.com/posts/</link>
+        <description>All Posts | Just Saying</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><atom:link href="https://jaedontan.com/posts/" rel="self" type="application/rss+xml" /><item>
+    <title>Starting a Blog</title>
+    <link>https://jaedontan.com/posts/my-first-blog-post/my-first-blog-post/</link>
+    <pubDate>Mon, 01 Jan 0001 00:00:00 &#43;0000</pubDate>
+    <author>Author</author>
+    <guid>https://jaedontan.com/posts/my-first-blog-post/my-first-blog-post/</guid>
+    <description><![CDATA[Hello reader and welcome to my website.
+I spent a big chunk of today exploring the world of web development and one of my conclusions is that relearning something can feel like you’re learning something for the first time.
+Granted, a lot of the things I learned today about web development I had only known about by name.
+If you guys don’t know yet, you can host your own static website on platforms like Netlify and GitHub Pages for free.]]></description>
+</item></channel>
+</rss>
